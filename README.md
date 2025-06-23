@@ -28,6 +28,6 @@ Run this code
 
 | Cluster        | Traits                                | Δ PnL (Greed‑Fear) | Action |
 | -------------- | ------------------------------------- | ------------------ | ------ |
-| Momentum Bulls | High leverage,greed‑heavy, boom‑bust. | + $420             |        | 
-| Steady Makers  | Low variance, sentiment‑neutral.      | + $35              |        |
-| Contrarians    | Profit more in Fear, often short‑bias.| – $280             |        |
+| Momentum Bulls | High leverage,greed‑heavy, boom‑bust. | + $420             |   Scale down size during Extreme Greed.    | 
+| Steady Makers  | Low variance, sentiment‑neutral.      | + $35              |   Prime copy‑trade base.                   |
+| Contrarians    | Profit more in Fear, often short‑bias.| – $280             |    Mirror their trades for reversal alpha. |
