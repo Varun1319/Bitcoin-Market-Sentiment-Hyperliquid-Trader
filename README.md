@@ -20,7 +20,7 @@ Run this code
 
 1) Greed days deliver higher mean PnL but double volatility; risk‑adjusted returns favour moderated exposure.
 2) Sentiment alone is a weak win/loss predictor (AUC ≈ 0.55); adding size & intraday timing improves edge.
-3) Five contrarian wallets outperform on Fear days—ideal for copy‑trade research.
+3) Five contrarian wallets outperform on Fear days, ideal for copy‑trade research.
 4) No strong lead‑lag effect within ±3 days; sentiment acts concurrently rather than predictively.
 5) Simple Extreme‑Fear long rule beats flat baseline (positive CAGR) but suffers ⟂10–15 % drawdowns.
 
