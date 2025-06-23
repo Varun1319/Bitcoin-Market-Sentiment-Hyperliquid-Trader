@@ -31,3 +31,12 @@ Run this code
 | Momentum Bulls | High leverage,greed‑heavy, boom‑bust. | + $420             |   Scale down size during Extreme Greed.    | 
 | Steady Makers  | Low variance, sentiment‑neutral.      | + $35              |   Prime copy‑trade base.                   |
 | Contrarians    | Profit more in Fear, often short‑bias.| – $280             |    Mirror their trades for reversal alpha. |
+
+## Core Relationships
+
+| **Finding**                                         | **Evidence**                                                         | **Why it matters**                                              |
+| --------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Greed days boost average PnL—but double volatility. | Mean PnL ↑ +76 %; st-dev ↑ +105 %; Welch *t*-test *p* < 10⁻⁸         | Higher raw gains but thinner risk-adjusted edge → tighten stops |
+| Sentiment moves magnitude, not win-rate.            | Logistic AUC ≈ 0.51 with sentiment only; 0.58 with size + hour       | Adjust **sizing**, not directional bias                         |
+| Volume surges on Fear days.                         | 4× more trades; +60 % book depth                                     | Ideal liquidity windows for market-making & scalps              |
+| Engineered features predict volatility spikes.      | `value_z7` corr 0.42 with next-day PnL st-dev; `price_vol7` stronger | Plug into VAR / volatility-targeting modules                    |
