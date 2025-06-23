@@ -27,6 +27,7 @@ Run this code
 ## Hidden Patterns
 
 | Cluster        | Traits                                | Δ PnL (Greed‑Fear) | Action |
-| Momentum Bulls | High leverage,greed‑heavy, boom‑bust. | + $420             | 
-| Steady Makers  | Low variance, sentiment‑neutral.      | + $35              |    
-| Contrarians    | Profit more in Fear, often short‑bias.| – $280             |
+| -------------- | ------------------------------------- | ------------------ | ------ |
+| Momentum Bulls | High leverage,greed‑heavy, boom‑bust. | + $420             |        | 
+| Steady Makers  | Low variance, sentiment‑neutral.      | + $35              |        |
+| Contrarians    | Profit more in Fear, often short‑bias.| – $280             |        |
